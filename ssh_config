@@ -1,0 +1,5 @@
+# caen
+Host rjm
+	HostName login.engin.umich.edu
+	User mccuner
+	Compression yes
